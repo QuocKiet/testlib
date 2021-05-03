@@ -1,0 +1,16 @@
+{
+  "name": "testlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/QuocKiet/testlib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "aoerandom": "commands/aoerandom.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
